@@ -1,11 +1,12 @@
 {
   "compilerOptions": {
-    "jsx": "react",
+    "jsx": "react-jsx",
     "target": "es2015",
     "module": "esnext",
     "moduleResolution": "node",
     "sourceMap": true,
     "allowSyntheticDefaultImports": true,
+    "strictNullChecks": true,
     "skipLibCheck": true,
     "baseUrl": "./"
   }
